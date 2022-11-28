@@ -1,3 +1,3 @@
 # testproject
 
-File to upload in Scaleinfinite
+Project to upload in Scaleinfinite
